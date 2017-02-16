@@ -1,7 +1,0 @@
-<linker>
-	<assembly fullname="Assembly-CSharp">
-		<type fullname="ButtonClass">
-			<method name="onClick"/>
-		</type>
-	</assembly>
-</linker>
